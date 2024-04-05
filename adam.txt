@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+im tired
+=======
 
 asdfasdf
+>>>>>>> 102d0a93b1f9d9ff5f102c249c247669a6b40a0c
